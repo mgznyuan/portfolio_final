@@ -373,7 +373,9 @@ footer {
 	.parallax {
 	    background-attachment: scroll;
 	}
-
+	.flip-card .flip-card-inner {
+	    transform: rotateY(180deg);
+	  }
 
 }
 
