@@ -370,6 +370,9 @@ footer {
 	#profile, #name {
 		animation: none;
 	}
+	.parallax {
+	    background-attachment: scroll;
+	}
 
 
 }
